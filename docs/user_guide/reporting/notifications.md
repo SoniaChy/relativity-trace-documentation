@@ -35,3 +35,6 @@ The following are steps on how to view this feature, please see the admin guide 
 
 **General Notes:** Notifications only review previous day, not historical data
 {: .info}
+### Rule Change Report
+
+Companies can track when surveillance team members 
